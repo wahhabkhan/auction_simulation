@@ -1,1 +1,2 @@
 # auction_simulation
+This Python program simulates an auction system involving Merchant agents and an Operator agent. Merchants bid on products based on their preferences, while the Operator manages product availability and auction price adjustments. The simulation supports two types of auctions: random ('R') and non-random ('NR') merchant preferences. The system uses the osbrain library for agent-based communication and interaction.
